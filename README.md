@@ -1,1 +1,1 @@
-Collection of scripts for fitting data of transport properties for LJ fluids. 
+Symbolic Regression for fitting data of transport properties for LJ fluids. 
