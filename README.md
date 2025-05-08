@@ -1,1 +1,1 @@
-Symbolic Regression for fitting data of transport properties for LJ fluids. 
+Symbolic Regression (SR) and model viscosities calculated with the Hybrid Particle Field - Multiparticle Collision Dynamics (HPF-MPCD) method.  
